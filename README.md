@@ -80,6 +80,11 @@ import java.util.EmptyStackException;
 ```
 ## Description :
 This program works on Java swing class for GUI reference
+## Functionalities :
+### 1.Undo :
+User can undo the changes in the textfield.
+### 2.Redo :
+User can redo the changes in the textfield.
 ## Screenshots :
-
+![Screenshot (380)](https://user-images.githubusercontent.com/82898989/137532637-2962d6d8-e4d3-4cc6-b6d3-179ef718fd8e.png)
  
