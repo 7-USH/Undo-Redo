@@ -3,7 +3,7 @@
 ### Interface Reference :
 ```java
 public interface StackFunctions<T> {
-    void push(T number);
+    void push(T value);
     T pop();
     boolean isEmpty();
     void display();
